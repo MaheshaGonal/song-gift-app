@@ -9,6 +9,6 @@ export function razorpayClient() {
 }
 
 export const PACKAGE_PRICES_INR: Record<"song" | "song_video", number> = {
-  song: 399,
-  song_video: 1999,
+  song: 99,
+  song_video: 499,
 };

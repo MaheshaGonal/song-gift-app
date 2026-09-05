@@ -105,8 +105,8 @@ export default function OrderForm() {
           value={pkg}
           onChange={(e) => setPkg(e.target.value as "song" | "song_video")}
         >
-          <option value="song">Just the song — ₹399</option>
-          <option value="song_video">Song + video — ₹1,999</option>
+          <option value="song">Just the song — ₹99</option>
+          <option value="song_video">Song + video — ₹499</option>
         </select>
       </div>
       <div>

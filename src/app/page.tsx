@@ -109,7 +109,7 @@ export default function Home() {
                 story.
               </div>
               <div className="amount">
-                <sup>₹</sup>399
+                <sup>₹</sup>99
               </div>
               <span className="per">one song, one story</span>
               <ul>
@@ -130,7 +130,7 @@ export default function Home() {
                 Your song, set to a custom visual story built around it.
               </div>
               <div className="amount">
-                <sup>₹</sup>1,999
+                <sup>₹</sup>499
               </div>
               <span className="per">song + full video</span>
               <ul>
