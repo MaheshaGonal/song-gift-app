@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en">
-      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM_ID!} />
+      <GoogleTagManager gtmId="GTM-PK6TXQH9" />
       <body>{children}</body>
     </html>
   );
