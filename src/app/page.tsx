@@ -167,7 +167,7 @@ export default function Home() {
               </p>
               <ul className="order-list">
                 <li>No musical experience needed on your end</li>
-                <li>Preview before you pay in full</li>
+                <li>Preview + one free revision included</li>
                 <li>Delivered privately, yours to share however you like</li>
               </ul>
             </div>

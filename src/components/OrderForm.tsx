@@ -1,5 +1,6 @@
 "use client";
 
+import { sendGTMEvent } from "@next/third-parties/google";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 
